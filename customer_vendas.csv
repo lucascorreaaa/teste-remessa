@@ -1,0 +1,498 @@
+Número de registros;Age;City;Customer Id;Date;Id (Operations);Id;Scholarship;Sex;Value
+1;25;São Paulo;18;09/05/2018;1;18;Ensino Superior;F;798,76
+1;28;Mato Grosso;4;12/04/2018;2;4;Ensino Superior;M;383,87
+1;37;Rio de Janeiro;39;02/05/2018;3;39;Ensino Médio;M;595,83
+1;43;São Paulo;14;07/07/2018;4;14;Ensino Médio;F;954,76
+1;30;Rio de Janeiro;2;16/04/2018;5;2;Ensino Superior;M;267,24
+1;36;Pará;48;28/05/2018;6;48;Ensino Superior;F;815
+1;28;São Paulo;11;26/06/2018;7;11;Ensino Médio;F;483,86
+1;40;Rio Grande do Sul;3;12/04/2018;8;3;Ensino Superior;M;139,76
+1;34;São Paulo;25;02/04/2018;9;25;Ensino Superior;F;286,15
+1;25;São Paulo;18;23/05/2018;10;18;Ensino Superior;F;421,73
+1;41;São Paulo;26;09/07/2018;11;26;Ensino Superior;F;777,51
+1;44;Rio de Janeiro;35;08/05/2018;12;35;Ensino Superior;F;934,01
+1;26;Rio de Janeiro;40;18/06/2018;13;40;Ensino Médio;F;868,86
+1;29;São Paulo;7;22/04/2018;14;7;Ensino Superior;M;340,1
+1;49;São Paulo;28;04/06/2018;15;28;Ensino Superior;F;1064,38
+1;38;Rio de Janeiro;41;30/04/2018;16;41;Ensino Médio;F;920,67
+1;31;Minas Gerais;45;10/05/2018;17;45;Ensino Superior;F;893,9
+1;27;Rio de Janeiro;34;27/06/2018;18;34;Ensino Superior;F;297,45
+1;27;Bahia;50;01/05/2018;19;50;Ensino Superior;M;681,38
+1;35;Goiás;47;03/04/2018;20;47;Ensino Superior;F;720,8
+1;38;Rio de Janeiro;41;22/06/2018;21;41;Ensino Médio;F;782
+1;35;Goiás;47;27/06/2018;22;47;Ensino Superior;F;1186,92
+1;26;Rio de Janeiro;40;29/04/2018;23;40;Ensino Médio;F;298,99
+1;26;Paraná;46;29/04/2018;24;46;Ensino Superior;F;429,65
+1;19;São Paulo;23;15/04/2018;25;23;Ensino Superior;M;363,85
+1;35;Rio de Janeiro;38;20/06/2018;26;38;Ensino Superior;F;998,74
+1;34;São Paulo;25;06/05/2018;27;25;Ensino Superior;F;1196,06
+1;29;São Paulo;7;04/06/2018;28;7;Ensino Superior;M;592,58
+1;28;Mato Grosso;4;08/05/2018;29;4;Ensino Superior;M;299,47
+1;19;São Paulo;23;19/04/2018;30;23;Ensino Superior;M;573,68
+1;40;Rio Grande do Sul;3;27/06/2018;31;3;Ensino Superior;M;679,86
+1;28;São Paulo;11;05/04/2018;32;11;Ensino Médio;F;835,77
+1;38;São Paulo;30;17/04/2018;33;30;Ensino Médio;F;821,58
+1;26;Paraná;46;29/05/2018;34;46;Ensino Superior;F;748,47
+1;40;São Paulo;10;06/07/2018;35;10;Ensino Superior;F;83,33
+1;36;Pará;48;17/05/2018;36;48;Ensino Superior;F;367,54
+1;43;São Paulo;14;02/07/2018;37;14;Ensino Médio;F;938,29
+1;39;São Paulo;1;08/05/2018;38;1;Ensino Superior;F;588,33
+1;40;São Paulo;10;02/04/2018;39;10;Ensino Superior;F;505,06
+1;19;São Paulo;23;14/06/2018;40;23;Ensino Superior;M;338,29
+1;40;São Paulo;10;05/05/2018;41;10;Ensino Superior;F;697,45
+1;47;São Paulo;8;24/04/2018;42;8;Ensino Médio;F;618,61
+1;32;São Paulo;31;07/07/2018;43;31;Ensino Superior;M;389,23
+1;29;São Paulo;7;16/06/2018;44;7;Ensino Superior;M;431,32
+1;27;Bahia;50;20/04/2018;45;50;Ensino Superior;M;217,67
+1;30;Rio de Janeiro;2;03/04/2018;46;2;Ensino Superior;M;354,66
+1;35;Mato Grosso;5;26/05/2018;47;5;Ensino Superior;F;817,02
+1;46;Acre;43;27/04/2018;48;43;Ensino Médio;F;789,8
+1;28;Mato Grosso;4;10/07/2018;49;4;Ensino Superior;M;418,59
+1;42;São Paulo;12;18/05/2018;50;12;Ensino Médio;M;432,31
+1;42;São Paulo;12;13/06/2018;51;12;Ensino Médio;M;643,11
+1;32;Santa Catarina;44;05/07/2018;52;44;Ensino Médio;M;533,85
+1;40;São Paulo;22;04/05/2018;53;22;Ensino Superior;M;491,96
+1;39;São Paulo;1;01/06/2018;54;1;Ensino Superior;F;589,27
+1;29;Rio de Janeiro;32;21/05/2018;55;32;Ensino Superior;F;813,65
+1;27;Rio de Janeiro;34;31/05/2018;56;34;Ensino Superior;F;241,46
+1;50;São Paulo;21;01/05/2018;57;21;Ensino Médio;F;447,85
+1;28;Mato Grosso;4;09/06/2018;58;4;Ensino Superior;M;8,69
+1;47;São Paulo;8;15/04/2018;59;8;Ensino Médio;F;530,43
+1;30;São Paulo;20;28/04/2018;60;20;Ensino Superior;F;634,15
+1;32;Santa Catarina;44;16/05/2018;61;44;Ensino Médio;M;445,43
+1;32;São Paulo;31;09/05/2018;62;31;Ensino Superior;M;602,48
+1;44;Rio de Janeiro;35;06/06/2018;63;35;Ensino Superior;F;475,81
+1;40;Rio de Janeiro;36;02/07/2018;64;36;Ensino Superior;M;606,51
+1;41;São Paulo;15;08/06/2018;65;15;Ensino Superior;F;436,06
+1;49;São Paulo;28;05/06/2018;66;28;Ensino Superior;F;97,88
+1;38;São Paulo;30;15/05/2018;67;30;Ensino Médio;F;1073,29
+1;42;Rio de Janeiro;42;20/04/2018;68;42;Ensino Médio;M;880,75
+1;31;Minas Gerais;45;09/04/2018;69;45;Ensino Superior;F;132,84
+1;28;São Paulo;11;19/06/2018;70;11;Ensino Médio;F;559,74
+1;28;Mato Grosso;4;10/06/2018;71;4;Ensino Superior;M;501,35
+1;38;São Paulo;30;29/05/2018;72;30;Ensino Médio;F;711,98
+1;47;São Paulo;8;04/07/2018;73;8;Ensino Médio;F;807,54
+1;50;Rio de Janeiro;33;06/06/2018;74;33;Ensino Superior;M;556,93
+1;38;São Paulo;30;08/04/2018;75;30;Ensino Médio;F;697,16
+1;49;São Paulo;9;19/06/2018;76;9;Ensino Médio;F;889,59
+1;19;São Paulo;23;16/05/2018;77;23;Ensino Superior;M;349,73
+1;50;São Paulo;21;25/05/2018;78;21;Ensino Médio;F;1359,04
+1;35;Mato Grosso;5;05/06/2018;79;5;Ensino Superior;F;294,04
+1;43;São Paulo;14;27/05/2018;80;14;Ensino Médio;F;1174,84
+1;32;São Paulo;31;21/05/2018;81;31;Ensino Superior;M;721,82
+1;43;São Paulo;14;12/06/2018;82;14;Ensino Médio;F;338,27
+1;19;São Paulo;23;06/06/2018;83;23;Ensino Superior;M;270,12
+1;42;São Paulo;12;19/05/2018;84;12;Ensino Médio;M;711,1
+1;49;São Paulo;9;25/06/2018;85;9;Ensino Médio;F;846,22
+1;32;Santa Catarina;44;19/04/2018;86;44;Ensino Médio;M;444,23
+1;37;São Paulo;17;17/04/2018;87;17;Ensino Médio;F;882,97
+1;30;Rio de Janeiro;2;10/04/2018;88;2;Ensino Superior;M;383,18
+1;49;São Paulo;9;07/07/2018;89;9;Ensino Médio;F;946,61
+1;40;São Paulo;22;18/04/2018;90;22;Ensino Superior;M;695,71
+1;49;São Paulo;9;30/04/2018;91;9;Ensino Médio;F;513,08
+1;37;São Paulo;24;19/04/2018;92;24;Ensino Superior;F;678,58
+1;42;São Paulo;12;14/05/2018;93;12;Ensino Médio;M;223,53
+1;43;São Paulo;14;15/05/2018;94;14;Ensino Médio;F;563,26
+1;40;São Paulo;22;22/04/2018;95;22;Ensino Superior;M;478,04
+1;41;São Paulo;26;17/05/2018;96;26;Ensino Superior;F;246,97
+1;37;São Paulo;17;03/06/2018;97;17;Ensino Médio;F;1056,12
+1;20;São Paulo;19;12/04/2018;98;19;Ensino Superior;F;447,33
+1;31;Minas Gerais;45;05/06/2018;99;45;Ensino Superior;F;563,66
+1;19;São Paulo;23;09/04/2018;100;23;Ensino Superior;M;540,87
+1;30;Rio de Janeiro;2;17/06/2018;101;2;Ensino Superior;M;204,14
+1;47;São Paulo;8;14/04/2018;102;8;Ensino Médio;F;833,01
+1;25;São Paulo;18;06/06/2018;103;18;Ensino Superior;F;370,27
+1;41;São Paulo;26;27/04/2018;104;26;Ensino Superior;F;776,43
+1;37;São Paulo;24;01/07/2018;105;24;Ensino Superior;F;80,51
+1;26;Rio de Janeiro;40;28/06/2018;106;40;Ensino Médio;F;647,99
+1;40;São Paulo;10;20/05/2018;107;10;Ensino Superior;F;662,38
+1;25;São Paulo;18;24/06/2018;108;18;Ensino Superior;F;97,4
+1;34;São Paulo;13;15/06/2018;109;13;Ensino Médio;F;809,64
+1;31;São Paulo;27;08/07/2018;110;27;Ensino Médio;M;585,2
+1;38;São Paulo;30;10/07/2018;111;30;Ensino Médio;F;988,29
+1;22;São Paulo;6;14/04/2018;112;6;Ensino Superior;M;507,04
+1;37;São Paulo;17;11/06/2018;113;17;Ensino Médio;F;424,08
+1;49;São Paulo;9;15/05/2018;114;9;Ensino Médio;F;902,93
+1;34;São Paulo;13;31/05/2018;115;13;Ensino Médio;F;262,42
+1;21;Rio de Janeiro;37;22/06/2018;116;37;Ensino Superior;F;1073,04
+1;42;Rio de Janeiro;42;15/04/2018;117;42;Ensino Médio;M;278,76
+1;40;São Paulo;10;21/04/2018;118;10;Ensino Superior;F;1024,55
+1;28;São Paulo;11;20/05/2018;119;11;Ensino Médio;F;517,97
+1;50;São Paulo;21;16/04/2018;120;21;Ensino Médio;F;882,81
+1;50;São Paulo;21;10/04/2018;121;21;Ensino Médio;F;569,82
+1;37;Rio de Janeiro;39;01/06/2018;122;39;Ensino Médio;M;535,67
+1;35;Goiás;47;04/06/2018;123;47;Ensino Superior;F;705,85
+1;25;São Paulo;18;19/04/2018;124;18;Ensino Superior;F;485,37
+1;39;São Paulo;1;23/06/2018;125;1;Ensino Superior;F;1294,26
+1;26;Paraná;46;26/06/2018;126;46;Ensino Superior;F;507,25
+1;40;São Paulo;16;28/05/2018;127;16;Ensino Superior;M;620,39
+1;42;Rio de Janeiro;42;04/07/2018;128;42;Ensino Médio;M;520,35
+1;32;Santa Catarina;44;02/07/2018;129;44;Ensino Médio;M;554,16
+1;29;São Paulo;7;25/05/2018;130;7;Ensino Superior;M;566
+1;49;São Paulo;9;15/05/2018;131;9;Ensino Médio;F;756,16
+1;26;Rio de Janeiro;40;08/04/2018;132;40;Ensino Médio;F;639,07
+1;35;Mato Grosso;5;21/05/2018;133;5;Ensino Superior;F;676,65
+1;20;São Paulo;19;21/04/2018;134;19;Ensino Superior;F;777,23
+1;42;Rio de Janeiro;42;03/06/2018;135;42;Ensino Médio;M;577,07
+1;38;São Paulo;30;27/06/2018;136;30;Ensino Médio;F;62,76
+1;26;Paraná;46;03/04/2018;137;46;Ensino Superior;F;490,14
+1;40;São Paulo;16;04/04/2018;138;16;Ensino Superior;M;725,64
+1;19;São Paulo;23;03/06/2018;139;23;Ensino Superior;M;292,9
+1;38;São Paulo;30;05/06/2018;140;30;Ensino Médio;F;1189,54
+1;32;Santa Catarina;44;14/06/2018;141;44;Ensino Médio;M;564,94
+1;47;São Paulo;8;13/04/2018;142;8;Ensino Médio;F;585,71
+1;28;Mato Grosso;4;17/04/2018;143;4;Ensino Superior;M;408,49
+1;35;Goiás;47;13/04/2018;144;47;Ensino Superior;F;993,11
+1;47;São Paulo;8;30/06/2018;145;8;Ensino Médio;F;554,3
+1;37;São Paulo;17;13/05/2018;146;17;Ensino Médio;F;657,61
+1;26;Rio de Janeiro;40;10/04/2018;147;40;Ensino Médio;F;563,81
+1;26;Rio de Janeiro;40;05/06/2018;148;40;Ensino Médio;F;593,96
+1;41;São Paulo;15;11/05/2018;149;15;Ensino Superior;F;304,78
+1;32;São Paulo;31;05/05/2018;150;31;Ensino Superior;M;325,16
+1;41;São Paulo;26;17/06/2018;151;26;Ensino Superior;F;660,52
+1;42;Rio de Janeiro;42;18/05/2018;152;42;Ensino Médio;M;628,33
+1;35;Mato Grosso;5;25/05/2018;153;5;Ensino Superior;F;233,88
+1;44;Pernambuco;49;11/05/2018;154;49;Ensino Superior;M;772,3
+1;44;Pernambuco;49;29/04/2018;155;49;Ensino Superior;M;422,04
+1;40;São Paulo;10;22/06/2018;156;10;Ensino Superior;F;1159,24
+1;38;São Paulo;30;26/04/2018;157;30;Ensino Médio;F;610,18
+1;21;Rio de Janeiro;37;10/06/2018;158;37;Ensino Superior;F;308,48
+1;29;São Paulo;7;23/04/2018;159;7;Ensino Superior;M;314,26
+1;44;Pernambuco;49;24/06/2018;160;49;Ensino Superior;M;679,2
+1;35;Mato Grosso;5;13/06/2018;161;5;Ensino Superior;F;1112,76
+1;27;Bahia;50;20/06/2018;162;50;Ensino Superior;M;303,4
+1;42;Rio de Janeiro;42;15/04/2018;163;42;Ensino Médio;M;419,22
+1;35;Rio de Janeiro;38;27/06/2018;164;38;Ensino Superior;F;706,63
+1;27;Bahia;50;02/04/2018;165;50;Ensino Superior;M;735,92
+1;26;Rio de Janeiro;40;05/05/2018;166;40;Ensino Médio;F;900,9
+1;40;São Paulo;16;06/04/2018;167;16;Ensino Superior;M;415,45
+1;28;São Paulo;11;09/05/2018;168;11;Ensino Médio;F;347,26
+1;50;São Paulo;21;18/05/2018;169;21;Ensino Médio;F;768,57
+1;46;Acre;43;12/04/2018;170;43;Ensino Médio;F;731,15
+1;35;Rio de Janeiro;38;04/07/2018;171;38;Ensino Superior;F;380,3
+1;41;São Paulo;26;17/06/2018;172;26;Ensino Superior;F;580,35
+1;21;Rio de Janeiro;37;01/04/2018;173;37;Ensino Superior;F;419,77
+1;50;São Paulo;21;16/05/2018;174;21;Ensino Médio;F;831,1
+1;30;Rio de Janeiro;2;01/05/2018;175;2;Ensino Superior;M;209,19
+1;29;São Paulo;7;22/06/2018;176;7;Ensino Superior;M;350,01
+1;37;São Paulo;24;11/05/2018;177;24;Ensino Superior;F;632,86
+1;29;São Paulo;7;01/06/2018;178;7;Ensino Superior;M;347,05
+1;29;São Paulo;7;28/04/2018;179;7;Ensino Superior;M;177,17
+1;26;Rio de Janeiro;40;30/05/2018;180;40;Ensino Médio;F;909,41
+1;30;Rio de Janeiro;2;30/05/2018;181;2;Ensino Superior;M;489,78
+1;22;São Paulo;6;08/06/2018;182;6;Ensino Superior;M;458,81
+1;28;Mato Grosso;4;06/05/2018;183;4;Ensino Superior;M;426,04
+1;26;Paraná;46;19/05/2018;184;46;Ensino Superior;F;729,7
+1;40;São Paulo;10;08/04/2018;185;10;Ensino Superior;F;494,62
+1;35;Mato Grosso;5;24/04/2018;186;5;Ensino Superior;F;338,9
+1;49;São Paulo;9;05/04/2018;187;9;Ensino Médio;F;1065,31
+1;27;Bahia;50;30/04/2018;188;50;Ensino Superior;M;355,62
+1;50;São Paulo;21;20/04/2018;189;21;Ensino Médio;F;559,7
+1;44;Pernambuco;49;05/04/2018;190;49;Ensino Superior;M;552,33
+1;50;Rio de Janeiro;33;22/06/2018;191;33;Ensino Superior;M;271,67
+1;27;Bahia;50;04/07/2018;192;50;Ensino Superior;M;513,94
+1;37;São Paulo;17;08/07/2018;193;17;Ensino Médio;F;1443,37
+1;40;Rio de Janeiro;36;04/07/2018;194;36;Ensino Superior;M;140,82
+1;26;Rio de Janeiro;40;08/06/2018;195;40;Ensino Médio;F;471,85
+1;42;Rio de Janeiro;42;07/05/2018;196;42;Ensino Médio;M;649,67
+1;29;São Paulo;7;13/05/2018;197;7;Ensino Superior;M;581,11
+1;49;São Paulo;9;03/04/2018;198;9;Ensino Médio;F;504,73
+1;41;São Paulo;15;24/06/2018;199;15;Ensino Superior;F;720,17
+1;38;São Paulo;30;12/04/2018;200;30;Ensino Médio;F;973,13
+1;25;São Paulo;18;05/04/2018;201;18;Ensino Superior;F;623,37
+1;44;Rio de Janeiro;35;17/06/2018;202;35;Ensino Superior;F;994,44
+1;44;Rio de Janeiro;35;25/04/2018;203;35;Ensino Superior;F;1184,2
+1;35;Goiás;47;24/06/2018;204;47;Ensino Superior;F;803,41
+1;46;Acre;43;26/06/2018;205;43;Ensino Médio;F;889,15
+1;37;São Paulo;24;24/04/2018;206;24;Ensino Superior;F;710,52
+1;31;São Paulo;27;02/06/2018;207;27;Ensino Médio;M;736,29
+1;40;Rio de Janeiro;36;21/06/2018;208;36;Ensino Superior;M;607,91
+1;42;São Paulo;12;19/04/2018;209;12;Ensino Médio;M;770,51
+1;29;Rio de Janeiro;32;06/05/2018;210;32;Ensino Superior;F;927,08
+1;38;São Paulo;30;02/06/2018;211;30;Ensino Médio;F;552,26
+1;49;São Paulo;9;02/07/2018;212;9;Ensino Médio;F;642,35
+1;44;Rio de Janeiro;35;09/06/2018;213;35;Ensino Superior;F;1152,47
+1;35;Mato Grosso;5;18/04/2018;214;5;Ensino Superior;F;894,31
+1;41;São Paulo;15;10/04/2018;215;15;Ensino Superior;F;624,44
+1;50;Rio de Janeiro;33;17/06/2018;216;33;Ensino Superior;M;445,67
+1;41;São Paulo;15;17/05/2018;217;15;Ensino Superior;F;1029,23
+1;49;São Paulo;9;06/05/2018;218;9;Ensino Médio;F;624,91
+1;28;Mato Grosso;4;21/06/2018;219;4;Ensino Superior;M;356,84
+1;42;Rio de Janeiro;42;13/06/2018;220;42;Ensino Médio;M;362,34
+1;27;Bahia;50;09/04/2018;221;50;Ensino Superior;M;144
+1;38;Rio de Janeiro;41;14/06/2018;222;41;Ensino Médio;F;708,04
+1;34;São Paulo;25;28/04/2018;223;25;Ensino Superior;F;458,99
+1;47;São Paulo;29;26/04/2018;224;29;Ensino Superior;M;42,52
+1;44;Rio de Janeiro;35;10/07/2018;225;35;Ensino Superior;F;1115,69
+1;25;São Paulo;18;01/04/2018;226;18;Ensino Superior;F;599,7
+1;30;Rio de Janeiro;2;14/05/2018;227;2;Ensino Superior;M;106,84
+1;42;São Paulo;12;15/04/2018;228;12;Ensino Médio;M;331,6
+1;30;Rio de Janeiro;2;07/05/2018;229;2;Ensino Superior;M;314,94
+1;36;Pará;48;17/06/2018;230;48;Ensino Superior;F;1193,02
+1;37;São Paulo;24;07/06/2018;231;24;Ensino Superior;F;633,75
+1;42;São Paulo;12;18/05/2018;232;12;Ensino Médio;M;343,15
+1;44;Pernambuco;49;07/07/2018;233;49;Ensino Superior;M;54,01
+1;35;Rio de Janeiro;38;01/04/2018;234;38;Ensino Superior;F;607,44
+1;44;Rio de Janeiro;35;23/05/2018;235;35;Ensino Superior;F;848,39
+1;37;São Paulo;17;19/06/2018;236;17;Ensino Médio;F;728,12
+1;50;Rio de Janeiro;33;06/04/2018;237;33;Ensino Superior;M;499,78
+1;37;São Paulo;17;29/05/2018;238;17;Ensino Médio;F;1092,79
+1;28;Mato Grosso;4;16/04/2018;239;4;Ensino Superior;M;301,98
+1;46;Acre;43;16/05/2018;240;43;Ensino Médio;F;1109,86
+1;21;Rio de Janeiro;37;18/04/2018;241;37;Ensino Superior;F;445,53
+1;36;Pará;48;09/04/2018;242;48;Ensino Superior;F;752,55
+1;26;Rio de Janeiro;40;04/07/2018;243;40;Ensino Médio;F;747,11
+1;37;São Paulo;17;08/05/2018;244;17;Ensino Médio;F;632,1
+1;36;Pará;48;20/05/2018;245;48;Ensino Superior;F;614,39
+1;35;Rio de Janeiro;38;30/04/2018;246;38;Ensino Superior;F;390,55
+1;43;São Paulo;14;06/06/2018;247;14;Ensino Médio;F;334,77
+1;42;São Paulo;12;04/05/2018;248;12;Ensino Médio;M;1038,52
+1;38;Rio de Janeiro;41;15/06/2018;249;41;Ensino Médio;F;898,11
+1;28;Mato Grosso;4;21/06/2018;250;4;Ensino Superior;M;758,77
+1;37;Rio de Janeiro;39;26/05/2018;251;39;Ensino Médio;M;488,66
+1;37;São Paulo;24;04/04/2018;252;24;Ensino Superior;F;998,61
+1;38;São Paulo;30;04/05/2018;253;30;Ensino Médio;F;987,07
+1;19;São Paulo;23;23/06/2018;254;23;Ensino Superior;M;277,26
+1;22;São Paulo;6;10/06/2018;255;6;Ensino Superior;M;475,9
+1;42;Rio de Janeiro;42;30/06/2018;256;42;Ensino Médio;M;527,86
+1;40;São Paulo;10;24/04/2018;257;10;Ensino Superior;F;596,69
+1;37;São Paulo;17;10/06/2018;258;17;Ensino Médio;F;727,54
+1;41;São Paulo;15;05/06/2018;259;15;Ensino Superior;F;866,65
+1;44;Rio de Janeiro;35;04/05/2018;260;35;Ensino Superior;F;478,71
+1;22;São Paulo;6;18/05/2018;261;6;Ensino Superior;M;483,73
+1;49;São Paulo;28;08/06/2018;262;28;Ensino Superior;F;874,23
+1;37;Rio de Janeiro;39;29/06/2018;263;39;Ensino Médio;M;528,51
+1;32;São Paulo;31;13/06/2018;264;31;Ensino Superior;M;218,78
+1;41;São Paulo;26;04/05/2018;265;26;Ensino Superior;F;759,11
+1;28;Mato Grosso;4;20/05/2018;266;4;Ensino Superior;M;331,26
+1;26;Rio de Janeiro;40;04/07/2018;267;40;Ensino Médio;F;531,65
+1;30;Rio de Janeiro;2;08/04/2018;268;2;Ensino Superior;M;442,57
+1;35;Mato Grosso;5;23/06/2018;269;5;Ensino Superior;F;497,12
+1;44;Pernambuco;49;16/06/2018;270;49;Ensino Superior;M;379,68
+1;40;Rio de Janeiro;36;18/04/2018;271;36;Ensino Superior;M;693,47
+1;40;Rio Grande do Sul;3;03/07/2018;272;3;Ensino Superior;M;596,83
+1;22;São Paulo;6;16/06/2018;273;6;Ensino Superior;M;379,38
+1;27;Rio de Janeiro;34;05/04/2018;274;34;Ensino Superior;F;502,29
+1;37;São Paulo;24;06/07/2018;275;24;Ensino Superior;F;565,67
+1;42;Rio de Janeiro;42;02/05/2018;276;42;Ensino Médio;M;517,58
+1;27;Rio de Janeiro;34;28/06/2018;277;34;Ensino Superior;F;208,78
+1;37;Rio de Janeiro;39;09/07/2018;278;39;Ensino Médio;M;610,92
+1;20;São Paulo;19;31/05/2018;279;19;Ensino Superior;F;812,21
+1;32;São Paulo;31;14/04/2018;280;31;Ensino Superior;M;660,41
+1;30;São Paulo;20;11/04/2018;281;20;Ensino Superior;F;353,45
+1;41;São Paulo;26;11/06/2018;282;26;Ensino Superior;F;547,59
+1;50;São Paulo;21;15/05/2018;283;21;Ensino Médio;F;1206,24
+1;41;São Paulo;15;09/06/2018;284;15;Ensino Superior;F;782,1
+1;49;São Paulo;28;30/06/2018;285;28;Ensino Superior;F;415,36
+1;28;Mato Grosso;4;10/04/2018;286;4;Ensino Superior;M;270,06
+1;19;São Paulo;23;28/05/2018;287;23;Ensino Superior;M;158,14
+1;27;Bahia;50;27/05/2018;288;50;Ensino Superior;M;197,02
+1;31;Minas Gerais;45;19/05/2018;289;45;Ensino Superior;F;778,58
+1;37;São Paulo;17;12/05/2018;290;17;Ensino Médio;F;587,54
+1;35;Rio de Janeiro;38;25/04/2018;291;38;Ensino Superior;F;377,33
+1;43;São Paulo;14;19/04/2018;292;14;Ensino Médio;F;384,36
+1;50;Rio de Janeiro;33;11/04/2018;293;33;Ensino Superior;M;90,17
+1;37;São Paulo;17;05/04/2018;294;17;Ensino Médio;F;626,03
+1;28;São Paulo;11;05/04/2018;295;11;Ensino Médio;F;338,75
+1;37;Rio de Janeiro;39;11/04/2018;296;39;Ensino Médio;M;671,78
+1;32;Santa Catarina;44;29/04/2018;297;44;Ensino Médio;M;125,57
+1;21;Rio de Janeiro;37;17/05/2018;298;37;Ensino Superior;F;280,09
+1;29;São Paulo;7;07/05/2018;299;7;Ensino Superior;M;305,19
+1;50;São Paulo;21;22/04/2018;300;21;Ensino Médio;F;682,81
+1;27;Bahia;50;08/07/2018;301;50;Ensino Superior;M;387,27
+1;37;Rio de Janeiro;39;15/06/2018;302;39;Ensino Médio;M;599,65
+1;50;São Paulo;21;18/04/2018;303;21;Ensino Médio;F;589,56
+1;35;Goiás;47;03/05/2018;304;47;Ensino Superior;F;761,78
+1;26;Rio de Janeiro;40;24/05/2018;305;40;Ensino Médio;F;644,85
+1;47;São Paulo;29;26/06/2018;306;29;Ensino Superior;M;355,83
+1;39;São Paulo;1;21/06/2018;307;1;Ensino Superior;F;1177,86
+1;26;Rio de Janeiro;40;05/05/2018;308;40;Ensino Médio;F;828,98
+1;22;São Paulo;6;05/06/2018;309;6;Ensino Superior;M;350,37
+1;44;Pernambuco;49;14/06/2018;310;49;Ensino Superior;M;611,65
+1;29;Rio de Janeiro;32;18/04/2018;311;32;Ensino Superior;F;476,98
+1;47;São Paulo;8;12/04/2018;312;8;Ensino Médio;F;501,96
+1;49;São Paulo;9;14/04/2018;313;9;Ensino Médio;F;431,05
+1;36;Pará;48;06/05/2018;314;48;Ensino Superior;F;801
+1;40;São Paulo;10;08/06/2018;315;10;Ensino Superior;F;1062,22
+1;37;São Paulo;17;04/04/2018;316;17;Ensino Médio;F;791,2
+1;38;São Paulo;30;10/06/2018;317;30;Ensino Médio;F;636,77
+1;42;São Paulo;12;28/05/2018;318;12;Ensino Médio;M;562,26
+1;25;São Paulo;18;03/07/2018;319;18;Ensino Superior;F;442,93
+1;50;São Paulo;21;18/06/2018;320;21;Ensino Médio;F;1196,74
+1;35;Rio de Janeiro;38;26/05/2018;321;38;Ensino Superior;F;458,94
+1;19;São Paulo;23;16/06/2018;322;23;Ensino Superior;M;342,61
+1;37;São Paulo;17;09/06/2018;323;17;Ensino Médio;F;525,24
+1;46;Acre;43;22/05/2018;324;43;Ensino Médio;F;823,2
+1;47;São Paulo;8;14/05/2018;325;8;Ensino Médio;F;620,74
+1;19;São Paulo;23;07/06/2018;326;23;Ensino Superior;M;483,35
+1;37;São Paulo;17;08/04/2018;327;17;Ensino Médio;F;1029,59
+1;47;São Paulo;8;20/06/2018;328;8;Ensino Médio;F;1231,76
+1;36;Pará;48;23/06/2018;329;48;Ensino Superior;F;895,41
+1;29;Rio de Janeiro;32;26/06/2018;330;32;Ensino Superior;F;490,68
+1;30;São Paulo;20;11/04/2018;331;20;Ensino Superior;F;458,61
+1;40;Rio de Janeiro;36;05/07/2018;332;36;Ensino Superior;M;409,79
+1;41;São Paulo;26;02/06/2018;333;26;Ensino Superior;F;819,45
+1;42;Rio de Janeiro;42;05/06/2018;334;42;Ensino Médio;M;455,26
+1;39;São Paulo;1;06/06/2018;335;1;Ensino Superior;F;882,62
+1;36;Pará;48;06/06/2018;336;48;Ensino Superior;F;582,91
+1;38;São Paulo;30;16/06/2018;337;30;Ensino Médio;F;862,23
+1;26;Rio de Janeiro;40;24/04/2018;338;40;Ensino Médio;F;402,43
+1;25;São Paulo;18;20/06/2018;339;18;Ensino Superior;F;481,75
+1;28;São Paulo;11;15/06/2018;340;11;Ensino Médio;F;747,96
+1;20;São Paulo;19;29/06/2018;341;19;Ensino Superior;F;741,75
+1;26;Rio de Janeiro;40;16/04/2018;342;40;Ensino Médio;F;575,09
+1;32;Santa Catarina;44;10/05/2018;343;44;Ensino Médio;M;585,07
+1;31;São Paulo;27;01/06/2018;344;27;Ensino Médio;M;686,16
+1;26;Rio de Janeiro;40;05/07/2018;345;40;Ensino Médio;F;295,29
+1;35;Mato Grosso;5;22/04/2018;346;5;Ensino Superior;F;797,84
+1;44;Pernambuco;49;29/06/2018;347;49;Ensino Superior;M;884,53
+1;40;São Paulo;10;18/04/2018;348;10;Ensino Superior;F;894,02
+1;28;São Paulo;11;09/05/2018;349;11;Ensino Médio;F;430,15
+1;41;São Paulo;15;06/07/2018;350;15;Ensino Superior;F;422,02
+1;40;Rio de Janeiro;36;21/06/2018;351;36;Ensino Superior;M;483,72
+1;42;Rio de Janeiro;42;24/05/2018;352;42;Ensino Médio;M;440,65
+1;50;São Paulo;21;20/05/2018;353;21;Ensino Médio;F;891,3
+1;37;São Paulo;17;05/07/2018;354;17;Ensino Médio;F;646,06
+1;40;Rio de Janeiro;36;10/04/2018;355;36;Ensino Superior;M;625,15
+1;49;São Paulo;28;01/04/2018;356;28;Ensino Superior;F;948,73
+1;37;São Paulo;24;25/05/2018;357;24;Ensino Superior;F;1001,06
+1;42;Rio de Janeiro;42;21/04/2018;358;42;Ensino Médio;M;451,52
+1;29;Rio de Janeiro;32;25/04/2018;359;32;Ensino Superior;F;762,35
+1;25;São Paulo;18;25/04/2018;360;18;Ensino Superior;F;800,02
+1;40;Rio de Janeiro;36;28/05/2018;361;36;Ensino Superior;M;423,98
+1;35;Goiás;47;18/06/2018;362;47;Ensino Superior;F;606,86
+1;47;São Paulo;29;15/04/2018;363;29;Ensino Superior;M;428,44
+1;47;São Paulo;29;01/05/2018;364;29;Ensino Superior;M;81,71
+1;25;São Paulo;18;04/07/2018;365;18;Ensino Superior;F;488,83
+1;21;Rio de Janeiro;37;06/04/2018;366;37;Ensino Superior;F;548,7
+1;34;São Paulo;25;10/07/2018;367;25;Ensino Superior;F;463,17
+1;25;São Paulo;18;16/05/2018;368;18;Ensino Superior;F;647,31
+1;28;São Paulo;11;09/05/2018;369;11;Ensino Médio;F;432,39
+1;31;São Paulo;27;29/04/2018;370;27;Ensino Médio;M;684,64
+1;40;Rio Grande do Sul;3;02/07/2018;371;3;Ensino Superior;M;459,68
+1;46;Acre;43;03/04/2018;372;43;Ensino Médio;F;892,64
+1;27;Rio de Janeiro;34;01/07/2018;373;34;Ensino Superior;F;414,64
+1;44;Rio de Janeiro;35;10/06/2018;374;35;Ensino Superior;F;870,28
+1;40;São Paulo;22;20/05/2018;375;22;Ensino Superior;M;674,09
+1;46;Acre;43;06/04/2018;376;43;Ensino Médio;F;634,18
+1;26;Rio de Janeiro;40;15/06/2018;377;40;Ensino Médio;F;905,01
+1;37;São Paulo;17;09/07/2018;378;17;Ensino Médio;F;653,87
+1;38;São Paulo;30;15/04/2018;379;30;Ensino Médio;F;727,9
+1;46;Acre;43;28/05/2018;380;43;Ensino Médio;F;752,37
+1;34;São Paulo;13;17/05/2018;381;13;Ensino Médio;F;657,73
+1;21;Rio de Janeiro;37;22/04/2018;382;37;Ensino Superior;F;616,13
+1;25;São Paulo;18;28/05/2018;383;18;Ensino Superior;F;720,55
+1;38;São Paulo;30;12/05/2018;384;30;Ensino Médio;F;728,37
+1;27;Rio de Janeiro;34;02/05/2018;385;34;Ensino Superior;F;686,87
+1;20;São Paulo;19;03/04/2018;386;19;Ensino Superior;F;715,99
+1;26;Paraná;46;02/04/2018;387;46;Ensino Superior;F;415,09
+1;32;Santa Catarina;44;11/05/2018;388;44;Ensino Médio;M;733,34
+1;46;Acre;43;23/06/2018;389;43;Ensino Médio;F;973,13
+1;27;Bahia;50;23/04/2018;390;50;Ensino Superior;M;555,51
+1;26;Rio de Janeiro;40;05/05/2018;391;40;Ensino Médio;F;727,67
+1;22;São Paulo;6;23/04/2018;392;6;Ensino Superior;M;363,75
+1;27;Bahia;50;11/04/2018;393;50;Ensino Superior;M;344,85
+1;31;Minas Gerais;45;23/04/2018;394;45;Ensino Superior;F;227,49
+1;34;São Paulo;25;14/04/2018;395;25;Ensino Superior;F;439,72
+1;29;Rio de Janeiro;32;06/07/2018;396;32;Ensino Superior;F;563,11
+1;39;São Paulo;1;24/04/2018;397;1;Ensino Superior;F;699,19
+1;34;São Paulo;25;10/06/2018;398;25;Ensino Superior;F;961,96
+1;38;Rio de Janeiro;41;30/06/2018;399;41;Ensino Médio;F;211,38
+1;22;São Paulo;6;13/05/2018;400;6;Ensino Superior;M;192,75
+1;26;Rio de Janeiro;40;20/04/2018;401;40;Ensino Médio;F;469,24
+1;39;São Paulo;1;03/06/2018;402;1;Ensino Superior;F;686,35
+1;40;São Paulo;10;06/07/2018;403;10;Ensino Superior;F;534,09
+1;28;Mato Grosso;4;19/06/2018;404;4;Ensino Superior;M;188,97
+1;40;São Paulo;16;22/05/2018;405;16;Ensino Superior;M;190,79
+1;41;São Paulo;26;29/06/2018;406;26;Ensino Superior;F;1041,71
+1;39;São Paulo;1;29/05/2018;407;1;Ensino Superior;F;422,13
+1;22;São Paulo;6;06/06/2018;408;6;Ensino Superior;M;332,68
+1;30;São Paulo;20;04/04/2018;409;20;Ensino Superior;F;81,14
+1;40;São Paulo;22;19/04/2018;410;22;Ensino Superior;M;560,94
+1;41;São Paulo;15;07/06/2018;411;15;Ensino Superior;F;770,79
+1;44;Rio de Janeiro;35;30/06/2018;412;35;Ensino Superior;F;563,23
+1;29;São Paulo;7;09/05/2018;413;7;Ensino Superior;M;127,99
+1;47;São Paulo;29;11/04/2018;414;29;Ensino Superior;M;487,46
+1;42;São Paulo;12;01/07/2018;415;12;Ensino Médio;M;342,19
+1;38;Rio de Janeiro;41;04/04/2018;416;41;Ensino Médio;F;1153,94
+1;26;Rio de Janeiro;40;17/06/2018;417;40;Ensino Médio;F;308,9
+1;50;São Paulo;21;14/04/2018;418;21;Ensino Médio;F;808,53
+1;29;São Paulo;7;16/05/2018;419;7;Ensino Superior;M;627,6
+1;29;São Paulo;7;20/04/2018;420;7;Ensino Superior;M;124,68
+1;26;Paraná;46;26/05/2018;421;46;Ensino Superior;F;665,57
+1;39;São Paulo;1;07/07/2018;422;1;Ensino Superior;F;968,41
+1;26;Rio de Janeiro;40;12/04/2018;423;40;Ensino Médio;F;477,12
+1;26;Paraná;46;10/05/2018;424;46;Ensino Superior;F;518,49
+1;49;São Paulo;28;02/06/2018;425;28;Ensino Superior;F;941,18
+1;47;São Paulo;29;20/04/2018;426;29;Ensino Superior;M;516,86
+1;50;São Paulo;21;05/06/2018;427;21;Ensino Médio;F;877,17
+1;40;São Paulo;16;20/06/2018;428;16;Ensino Superior;M;554,68
+1;44;Pernambuco;49;18/05/2018;429;49;Ensino Superior;M;677,9
+1;38;São Paulo;30;05/05/2018;430;30;Ensino Médio;F;761,37
+1;27;Bahia;50;20/04/2018;431;50;Ensino Superior;M;107,86
+1;35;Goiás;47;14/04/2018;432;47;Ensino Superior;F;416,71
+1;42;São Paulo;12;23/06/2018;433;12;Ensino Médio;M;515,55
+1;30;São Paulo;20;08/05/2018;434;20;Ensino Superior;F;406,44
+1;49;São Paulo;28;10/07/2018;435;28;Ensino Superior;F;636,68
+1;27;Bahia;50;05/05/2018;436;50;Ensino Superior;M;355,41
+1;34;São Paulo;13;04/05/2018;437;13;Ensino Médio;F;839,76
+1;26;Paraná;46;17/06/2018;438;46;Ensino Superior;F;191,43
+1;50;São Paulo;21;03/05/2018;439;21;Ensino Médio;F;-84,48
+1;49;São Paulo;28;28/04/2018;440;28;Ensino Superior;F;849,37
+1;40;São Paulo;10;09/04/2018;441;10;Ensino Superior;F;1157,57
+1;49;São Paulo;9;01/04/2018;442;9;Ensino Médio;F;445,39
+1;38;Rio de Janeiro;41;16/04/2018;443;41;Ensino Médio;F;469,25
+1;31;São Paulo;27;03/07/2018;444;27;Ensino Médio;M;256,7
+1;31;São Paulo;27;16/05/2018;445;27;Ensino Médio;M;397,95
+1;40;Rio de Janeiro;36;29/05/2018;446;36;Ensino Superior;M;847,38
+1;22;São Paulo;6;05/06/2018;447;6;Ensino Superior;M;480,23
+1;37;São Paulo;17;27/05/2018;448;17;Ensino Médio;F;505,14
+1;38;Rio de Janeiro;41;29/05/2018;449;41;Ensino Médio;F;771,41
+1;28;Mato Grosso;4;26/06/2018;450;4;Ensino Superior;M;337,99
+1;40;São Paulo;10;23/06/2018;451;10;Ensino Superior;F;990,85
+1;26;Rio de Janeiro;40;20/04/2018;452;40;Ensino Médio;F;466,07
+1;27;Bahia;50;11/06/2018;453;50;Ensino Superior;M;297
+1;26;Rio de Janeiro;40;04/06/2018;454;40;Ensino Médio;F;639,84
+1;50;Rio de Janeiro;33;06/06/2018;455;33;Ensino Superior;M;531,54
+1;30;Rio de Janeiro;2;22/06/2018;456;2;Ensino Superior;M;141,49
+1;30;São Paulo;20;05/04/2018;457;20;Ensino Superior;F;672,98
+1;32;Santa Catarina;44;17/04/2018;458;44;Ensino Médio;M;752,41
+1;20;São Paulo;19;02/05/2018;459;19;Ensino Superior;F;576,77
+1;49;São Paulo;9;25/04/2018;460;9;Ensino Médio;F;449,91
+1;37;São Paulo;17;10/07/2018;461;17;Ensino Médio;F;354,11
+1;44;Rio de Janeiro;35;08/04/2018;462;35;Ensino Superior;F;548,98
+1;21;Rio de Janeiro;37;31/05/2018;463;37;Ensino Superior;F;681,84
+1;29;São Paulo;7;05/05/2018;464;7;Ensino Superior;M;310,76
+1;27;Rio de Janeiro;34;19/04/2018;465;34;Ensino Superior;F;450,07
+1;34;São Paulo;13;12/06/2018;466;13;Ensino Médio;F;975,84
+1;35;Rio de Janeiro;38;25/05/2018;467;38;Ensino Superior;F;804,81
+1;39;São Paulo;1;28/04/2018;468;1;Ensino Superior;F;213,19
+1;19;São Paulo;23;03/04/2018;469;23;Ensino Superior;M;212,12
+1;26;Paraná;46;30/06/2018;470;46;Ensino Superior;F;689,1
+1;41;São Paulo;15;05/06/2018;471;15;Ensino Superior;F;778,23
+1;30;São Paulo;20;20/04/2018;472;20;Ensino Superior;F;790,38
+1;37;Rio de Janeiro;39;13/05/2018;473;39;Ensino Médio;M;491,84
+1;39;São Paulo;1;15/05/2018;474;1;Ensino Superior;F;739,94
+1;31;Minas Gerais;45;26/06/2018;475;45;Ensino Superior;F;988,32
+1;42;Rio de Janeiro;42;22/05/2018;476;42;Ensino Médio;M;452,57
+1;35;Rio de Janeiro;38;04/05/2018;477;38;Ensino Superior;F;576,62
+1;35;Rio de Janeiro;38;22/06/2018;478;38;Ensino Superior;F;379,68
+1;29;Rio de Janeiro;32;28/06/2018;479;32;Ensino Superior;F;294,86
+1;26;Rio de Janeiro;40;13/05/2018;480;40;Ensino Médio;F;543,09
+1;40;Rio Grande do Sul;3;22/05/2018;481;3;Ensino Superior;M;289,22
+1;30;São Paulo;20;22/05/2018;482;20;Ensino Superior;F;667,32
+1;30;Rio de Janeiro;2;05/04/2018;483;2;Ensino Superior;M;411,5
+1;30;São Paulo;20;25/06/2018;484;20;Ensino Superior;F;431,5
+1;35;Goiás;47;03/06/2018;485;47;Ensino Superior;F;1003,14
+1;36;Pará;48;11/04/2018;486;48;Ensino Superior;F;814,35
+1;37;São Paulo;24;26/05/2018;487;24;Ensino Superior;F;470,95
+1;50;São Paulo;21;07/05/2018;488;21;Ensino Médio;F;283,05
+1;49;São Paulo;9;30/04/2018;489;9;Ensino Médio;F;789,88
+1;28;São Paulo;11;23/05/2018;490;11;Ensino Médio;F;131,53
+1;28;São Paulo;11;06/04/2018;491;11;Ensino Médio;F;124,93
+1;32;Santa Catarina;44;25/06/2018;492;44;Ensino Médio;M;114,52
+1;43;São Paulo;14;12/04/2018;493;14;Ensino Médio;F;810,73
+1;37;São Paulo;24;06/06/2018;494;24;Ensino Superior;F;1204,99
+1;42;São Paulo;12;17/04/2018;495;12;Ensino Médio;M;328,79
+1;34;São Paulo;13;11/06/2018;496;13;Ensino Médio;F;140,15
+1;20;São Paulo;19;08/07/2018;497;19;Ensino Superior;F;466,66

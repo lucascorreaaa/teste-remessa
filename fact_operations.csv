@@ -1,0 +1,14 @@
+id_fact,id_dim_user,processed_at,value,nature,country_region,country_destiny
+122331,19101,2020-01-13 11:11:12,10250.5,recebimento de salário,Portugal,Brazil
+125841,22111,2020-03-12 10:01:04,5000.23,envio para familiar,Brazil,England
+213452,33345,2021-01-29 12:12:10,7000.54,recebimento de salário,France,Brazil
+100037,1324,2021-04-29 10:03:12,4998.10,compra de produtos,Brazil,China
+412444,19101,2019-02-01 15:29:05,3951.78,pagamento de boleto,China,Brazil
+383915,22111,2019-02-15 19:21:44,5839.19,compra online de produtos,Australia,Brazil
+583819,33345,2020-01-03 23:13:10,422.45,transferencia,Brazil,Russia
+591853,1324,2021-01-04 12:24:02,458.10,compra de produtos,Brazil,France
+371848,19101,2020-02-24 18:29:16,250.5,compra de produtos,Portugal,Brazil
+129481,22111,2020-05-28 12:29:00,5420.18,pagamento de conta,Brazil,Brazil
+385913,33345,2021-01-29 12:12:10,7000.54,recebimento de salário,Brazil,Brazil
+444938,19101,2021-04-12 21:03:49,12450.5,pagamento de conta,Portugal,Brazil
+149331,22111,2019-10-28 18:24:19,4421.09,envio para familiar,Brazil,Italy
